@@ -1,8 +1,9 @@
-# ReactNativeTS
+# React-Native CameraTS
 
-[![Build Status][ci-image]][ci-url] [![dependencies][dependencies-image]][dependencies-url] [![dev-dependencies][dev-dependencies-image]][dev-dependencies-url]
+a react native app with a preview camera component, made with Typescript,
+based on the [ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS) boilerplate repo
 
-Minimal template of a [React Native](https://facebook.github.io/react-native/) project with [Typescript](https://www.typescriptlang.org/).
+template of a [React Native](https://facebook.github.io/react-native/) project with [Typescript](https://www.typescriptlang.org/).
 
 ![preview](https://github.com/mrpatiwi/ReactNativeTS/raw/images/preview.png)
 
@@ -15,8 +16,8 @@ Minimal template of a [React Native](https://facebook.github.io/react-native/) p
 Clone this repository:
 
 ```sh
-git clone https://github.com/mrpatiwi/ReactNativeTS.git
-cd ReactNativeTS
+git clone https://github.com/taljacobson/React-Native-CameraTS.git ReactNativeCameraTS
+cd ReactNativeCameraTS
 ```
 
 Install dependencies:
