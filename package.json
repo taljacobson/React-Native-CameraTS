@@ -3,22 +3,26 @@
   "version": "0.0.3",
   "private": true,
   "scripts": {
-    "preinstall": "rm -rf typings",
-    "postinstall": "node node_modules/typings/dist/bin.js install",
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "android": "adb reverse tcp:8081 tcp:8081 && node node_modules/react-native/local-cli/cli.js run-android",
     "ios": "node node_modules/react-native/local-cli/cli.js run-ios",
-    "prebuild": "rm -rf build",
+    "prebuild": "rimraf build",
     "build": "tsc"
   },
   "dependencies": {
-    "react": "^15.4.1",
-    "react-native": "^0.38.1",
-    "react-native-button": "^1.7.1"
+    "@types/react": "^15.0.6",
+    "@types/react-native": "^0.37.11",
+    "@types/react-redux": "^4.4.36",
+    "react": "^15.4.2",
+    "react-native": "^0.41.1",
+    "react-native-button": "^1.7.1",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
   },
   "devDependencies": {
-    "tslint": "^4.0.2",
-    "typescript": "^2.0.10",
-    "typings": "^2.0.0"
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.5",
+    "rimraf": "^2.5.4"
   }
 }
