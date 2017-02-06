@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ReactNativeTS.app"
-               BlueprintName = "ReactNativeTS"
-               ReferencedContainer = "container:ReactNativeTS.xcodeproj">
+               BuildableName = "ReactNativeCameraTS.app"
+               BlueprintName = "ReactNativeCameraTS"
+               ReferencedContainer = "container:ReactNativeCameraTS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeTSTests.xctest"
-               BlueprintName = "ReactNativeTSTests"
-               ReferencedContainer = "container:ReactNativeTS.xcodeproj">
+               BuildableName = "ReactNativeCameraTSTests.xctest"
+               BlueprintName = "ReactNativeCameraTSTests"
+               ReferencedContainer = "container:ReactNativeCameraTS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeTSTests.xctest"
-               BlueprintName = "ReactNativeTSTests"
-               ReferencedContainer = "container:ReactNativeTS.xcodeproj">
+               BuildableName = "ReactNativeCameraTSTests.xctest"
+               BlueprintName = "ReactNativeCameraTSTests"
+               ReferencedContainer = "container:ReactNativeCameraTS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeTS.app"
-            BlueprintName = "ReactNativeTS"
-            ReferencedContainer = "container:ReactNativeTS.xcodeproj">
+            BuildableName = "ReactNativeCameraTS.app"
+            BlueprintName = "ReactNativeCameraTS"
+            ReferencedContainer = "container:ReactNativeCameraTS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeTS.app"
-            BlueprintName = "ReactNativeTS"
-            ReferencedContainer = "container:ReactNativeTS.xcodeproj">
+            BuildableName = "ReactNativeCameraTS.app"
+            BlueprintName = "ReactNativeCameraTS"
+            ReferencedContainer = "container:ReactNativeCameraTS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeTS.app"
-            BlueprintName = "ReactNativeTS"
-            ReferencedContainer = "container:ReactNativeTS.xcodeproj">
+            BuildableName = "ReactNativeCameraTS.app"
+            BlueprintName = "ReactNativeCameraTS"
+            ReferencedContainer = "container:ReactNativeCameraTS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

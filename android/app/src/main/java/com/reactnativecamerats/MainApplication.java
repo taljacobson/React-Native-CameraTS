@@ -1,4 +1,4 @@
-package com.reactnativets;
+package com.reactnativecamerats;
 
 import android.app.Application;
 import android.util.Log;
